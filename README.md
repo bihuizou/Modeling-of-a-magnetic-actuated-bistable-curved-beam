@@ -1,0 +1,1 @@
+# Modeling-of-a-magnetic-actuated-bistable-curved-beam
