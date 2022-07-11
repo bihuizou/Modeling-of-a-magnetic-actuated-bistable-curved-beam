@@ -7,6 +7,8 @@ It contains Codes for:
 2. Multimodal deformation analysis, which can plot the deformation under various directions of magnetic fields;
 3. Calculation of critical angle for snapping and the range for S-Shape, which utilizes a smaller step size of theta_B for more accuracy. 
 
+
+
 Title:
 Modeling of the magneto-thermomechanically triggered multimodal transformations of bistable curved beam induced by magnetic torques
 
